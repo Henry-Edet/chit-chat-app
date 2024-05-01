@@ -4,8 +4,11 @@ import User from "../models/user.model.js";
 
 const protectRoute = async (req, res, next) => {
   try {
-    const authHeader = req.headers.authorization;
-    const token = authHeader && authHeader?.split(" ")[1];
+    // const authHeader = req.headers.authorization;
+    // console.log(authHeader);
+    // const token = authHeader && authHeader.split(" ")[1];
+    const token = req.cookies.jwt;
+    // console.log(token);
 
     if (!token) {
       return res
@@ -14,6 +17,8 @@ const protectRoute = async (req, res, next) => {
     }
 
     const decoded = jwt.verify(token, process.env.JWT_SECRET);
+
+    // console.log(" this is decoded", decoded);
 
     if (!decoded) {
       return res.status(401).json({ error: "Unauthorized - Invalid Token" });

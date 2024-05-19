@@ -39,7 +39,7 @@ export default function GenderCheckbox({ onCheckboxChange, selectedGender }) {
           <span className="label-text">Female</span>
           <input
             type="checkbox"
-            checked={selectedGender === "Female"}
+            checked={selectedGender === "female"}
             className="checkbox border-slate-900"
             onChange={() => onCheckboxChange("female")}
           />

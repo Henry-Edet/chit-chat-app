@@ -1,5 +1,6 @@
 import * as Pages from "./pages/index";
 import { Route, Routes } from "react-router-dom";
+import { Toaster } from "react-hot-toast";
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
         <Route path="/login" element={<Pages.Login />} />
         <Route path="/signup" element={<Pages.SignUp />} />
       </Routes>
+      <Toaster />
     </div>
   );
 }

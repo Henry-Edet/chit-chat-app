@@ -1,21 +1,18 @@
 // import React from 'react'
 
-import { useState } from "react";
+// import { useState } from "react";
 
-export default function GenderCheckbox(onCheckboxChange, selectedGender) {
-  const [checkbox, setCheckbox] = useState({
-    male: false,
-    female: false,
-  });
-
-  function handleCheckboxChange(value) {
-    console.log(value);
-    setCheckbox({
-      ...checkbox,
-      [value]: !checkbox[value],
-    });
-    onCheckboxChange(value);
-  }
+export default function GenderCheckbox({ onCheckboxChange, selectedGender }) {
+  // const [checkbox, setCheckbox] = useState([]);
+  // function handleCheckboxChange(value) {
+  //   if (checkbox.includes(value)) {
+  //     setCheckbox(checkbox.filter((x) => x !== value));
+  //   } else {
+  //     setCheckbox([...checkbox, value]);
+  //   }
+  //   // onCheckboxChange(value);
+  //   console.log(value);
+  // }
   return (
     <div className="flex">
       <div className="form-control">
@@ -28,13 +25,8 @@ export default function GenderCheckbox(onCheckboxChange, selectedGender) {
           <input
             type="checkbox"
             className="checkbox border-slate-900"
-            checked={checkbox.male}
-            // checked={selectedGender === "male"}
-            // checked={true}
-            onChange={() => handleCheckboxChange("male")}
-            // onChange={(e) =>
-            //   console.log(e.target.value === "on" ? "checked" : "disabled")
-            // }
+            checked={selectedGender === "male"}
+            onChange={() => onCheckboxChange("male")}
           />
         </label>
       </div>
@@ -47,10 +39,9 @@ export default function GenderCheckbox(onCheckboxChange, selectedGender) {
           <span className="label-text">Female</span>
           <input
             type="checkbox"
-            checked={checkbox.female}
+            checked={selectedGender === "Female"}
             className="checkbox border-slate-900"
-            // checked={selectedGender === "female"}
-            onChange={() => handleCheckboxChange("female")}
+            onChange={() => onCheckboxChange("female")}
           />
         </label>
       </div>

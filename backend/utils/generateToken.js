@@ -9,8 +9,8 @@ const generateTokenAndSetCookie = (userId, res) => {
     expiresIn: "7d", // expires in 7 days
   });
 
-  console.log("generate access token ==>", accessToken);
-  console.log("generate refresh token ==>", refreshToken);
+  // console.log("generate access token ==>", accessToken);
+  // console.log("generate refresh token ==>", refreshToken);
 
   res.cookie("jwt", accessToken, {
     maxAge: 15 * 60 * 1000, // expires in 15 minutes

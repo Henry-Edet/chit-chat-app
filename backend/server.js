@@ -11,8 +11,8 @@ import protectRoute from "./middleware/protectRoute.js";
 import generateTokenAndSetCookie from "./utils/generateToken.js";
 
 import connectDB from "./db/connectToMongoDB.js";
+import { app, server } from "./socket/socket.js";
 
-const app = express();
 const PORT = process.env.PORT || 5555; //this is the port that the server will listen on 8000 or 5555 if there is no port specified
 
 dotenv.config(); //this line enables the.env file to be loaded
@@ -36,7 +36,7 @@ app.get("/protected", protectRoute, (req, res) => {
   res.send("This is a protected route");
 });
 
-app.listen(`${PORT}`, () => {
+server.listen(`${PORT}`, () => {
   connectDB();
   console.log(`Server is listening on port ${PORT}!`);
 });

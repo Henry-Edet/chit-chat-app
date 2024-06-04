@@ -1,9 +1,12 @@
 // import PROIMAGE from "./../../assets/images.jpeg";
+import { useSocketContext } from "../../context/SocketContext";
 import UseConversation from "./../../zustand/UseConversation";
 export default function Conversations({ conversation, lastIdx, emoji }) {
   const { selectedConversation, setSelectedConversation } = UseConversation();
 
   const isSelected = selectedConversation?._id === conversation._id;
+  const { onlineUsers } = useSocketContext();
+  const isOnline = onlineUsers.includes(conversation._id);
   return (
     <>
       <div
@@ -12,7 +15,7 @@ export default function Conversations({ conversation, lastIdx, emoji }) {
        `}
         onClick={() => setSelectedConversation(conversation)}
       >
-        <div className="avatar online">
+        <div className={`avatar ${isOnline ? "online" : ""}`}>
           <div className="w-12 rounded-full">
             <img src={conversation.profilePic} alt="user avatar" />
           </div>

@@ -1,0 +1,94 @@
+Chat Application User Guide
+
+Table of Contents
+=>  Introduction
+=>  Getting Started
+=>  Installation
+=>  Starting the Application
+=>  User Interface Overview
+=>  Login Page
+=>  Registration Page
+=>  Chat Dashboard
+=>  Using the Chat Application
+=>  Creating an Account
+=>  Logging In
+=>  Sending Messages
+=>  Receiving Messages
+=>  Logging Out
+=>  Advanced Features
+=>  Creating Group Chats
+=>  Managing Contacts
+=>  Settings and Preferences
+=>  Troubleshooting
+=>  FAQs
+=>  Support
+
+Introduction
+Welcome to the Social Interaction Module (P1M5) user guide! This document will help you understand how to use the chat application effectively. This chat app is built using the MERN stack and offers a seamless and interactive way to communicate with your friends and colleagues.
+
+Getting Started
+Installation
+To install the chat application, follow these steps:
+
+1.  Clone the Repository
+
+2.  Install Dependencies
+
+3.  Configure Environment Variables
+
+4. Build the React Application
+using npm run dev
+
+5. Build the server
+using npm run server
+
+User Interface Overview
+Login Page
+The login page is the first screen users see. It requires the user to enter their email and password to access the chat application.
+
+Registration Page
+New users can register by providing their name, email, and password.
+
+Chat Dashboard
+After logging in, users are directed to the chat dashboard, which displays:
+
+Contact List: Shows all available contacts.
+
+Chat Window: Displays the conversation with the selected contact.
+
+Message Input Box: Allows users to type and send messages.
+
+Using the Chat Application
+Creating an Account
+Navigate to the registration page.
+Enter your name, email, and password.
+Click the "Register" button.
+
+Logging In
+Navigate to the login page.
+Enter your registered email and password.
+Click the "Login" button.
+
+Sending Messages
+Select a contact from the contact list.
+Type your message in the message input box.
+Press "Enter" or click the "Send" button.
+Receiving Messages
+Messages from contacts will automatically appear in the chat window. New messages are marked for easy recognition.
+
+Logging Out
+Click on your profile icon or settings.
+Select "Logout" from the dropdown menu.
+
+Troubleshooting
+Can't log in? Ensure your email and password are correct.
+Messages not sending? Check your internet connection.
+Application not loading? Restart the application or clear the browser cache.
+
+FAQs
+How do I reset my password?
+Navigate to the login page and click on "Forgot Password."
+
+
+How do I mute notifications?
+In settings, navigate to notification preferences and toggle the mute option.

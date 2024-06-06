@@ -16,9 +16,16 @@ const Login = () => {
   return (
     <div className="flex flex-col items-center justify-center min-w-96 mx-auto">
       <div className="w-full p-6 rounded-lg shadow-md bg-gray-400 bg-clip-padding backdrop-filter backdrop-blur-lg bg-opacity-0">
+        <figure>
+          <img
+            src="/neu-logo.png "
+            alt="neu logo"
+            className="w-12 h-12 flex flex-col ml-36"
+          />
+        </figure>
         <h1 className="text-3xl font-semibold text-center text-gray-300">
           Login
-          <span className="text-blue-500 p-1">Chit-Chat App</span>
+          {/* <span className="text-blue-500 p-1">Chit-Chat App</span> */}
         </h1>
         <form onSubmit={handleSubmit}>
           <div className="">

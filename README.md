@@ -1,5 +1,5 @@
 #    Documentation loading...
 
-##    heading..
+##    Heading
 
     A chat app

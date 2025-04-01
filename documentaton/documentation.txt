@@ -86,9 +86,3 @@ Messages not sending? Check your internet connection.
 Application not loading? Restart the application or clear the browser cache.
 
 FAQs
-How do I reset my password?
-Navigate to the login page and click on "Forgot Password."
-
-
-How do I mute notifications?
-In settings, navigate to notification preferences and toggle the mute option.

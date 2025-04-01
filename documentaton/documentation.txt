@@ -83,4 +83,4 @@ Select "Logout" from the dropdown menu.
 Troubleshooting
 Can't log in? Ensure your email and password are correct.
 Messages not sending? Check your internet connection.
-Application not loading?
+Application

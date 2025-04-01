@@ -84,5 +84,3 @@ Troubleshooting
 Can't log in? Ensure your email and password are correct.
 Messages not sending? Check your internet connection.
 Application not loading? Restart the application or clear the browser cache.
-
-FAQs

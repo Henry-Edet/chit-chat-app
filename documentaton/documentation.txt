@@ -1,5 +1,4 @@
-Chat Application User Guide
-
+Chat Application User Guid
 Table of Contents
 =>  Introduction
 =>  Getting Started

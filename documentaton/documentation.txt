@@ -73,7 +73,7 @@ Select a contact from the contact list.
 Type your message in the message input box.
 Press "Enter" or click the "Send" button.
 Receiving Messages
-Messages from contacts will automatically appear in the chat window. New messages are marked for easy recognition.
+Messages from contacts will automatically appear in the chat window. New messages are marked for esy recognition.
 
 Logging O
 Click on your profile icon or settings.

@@ -75,7 +75,7 @@ Press "Enter" or click the "Send" button.
 Receiving Messages
 Messages from contacts will automatically appear in the chat window. New messages are marked for easy recognition.
 
-Logging Out
+Logging O
 Click on your profile icon or settings.
 Select "Logout" from the dropdown menu.
 

@@ -78,6 +78,5 @@ Messages from contacts will automatically appear in the chat window. New message
 Logging O
 Click on your profile icon or settings.
 Select "Logout" from the dropdown menu.
-
 Troubleshooti
 Can't log in? Ensure your email and password 

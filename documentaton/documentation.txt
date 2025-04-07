@@ -80,5 +80,5 @@ Logging Out
 Click on your profile icon or settings.
 Select "Logout" from the dropdown menu.
 
-Troubleshooting
+Troubleshooti
 Can't log in? Ensure your email and password 

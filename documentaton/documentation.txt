@@ -14,7 +14,7 @@ Table of Contents
 =>  Sending Messages
 =>  Receiving Messages
 =>  Logging Out
-=>  Advanced Features
+=>  Advanced Featur
 =>  Creating Group Chats
 =>  Managing Contacts
 =>  Settings and Preferences

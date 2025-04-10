@@ -9,7 +9,7 @@ Table of Contents
 =>  Registration Page
 =>  Chat Dashboard
 =>  Using the Chat Application
-=>  Creating an Account
+=>  Creating an Accoun
 =>  Logging In
 =>  Sending Messages
 =>  Receiving Messages

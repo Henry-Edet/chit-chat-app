@@ -12,7 +12,7 @@ Table of Contents
 =>  Creating an Accoun
 =>  Logging In
 =>  Sending Messages
-=>  Receiving Messages
+=>  Receiving Message
 =>  Logging Out
 =>  Advanced Featur
 =>  Creating Group Chats

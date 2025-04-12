@@ -5,7 +5,7 @@ Table of Contents
 =>  Installation
 =>  Starting the Application
 =>  User Interface Overview
-=>  Login Page
+=>  Login Pag
 =>  Registration Page
 =>  Chat Dashboard
 =>  Using the Chat Application

@@ -39,8 +39,7 @@ To install the chat application, follow these steps:
 using npm run dev
 
 5. Build the server
-using npm run server
-
+using npm run serve
 User Interface Overview
 Login Page
 The login page is the first screen users see. It requires the user to enter their email and password to access the chat application.

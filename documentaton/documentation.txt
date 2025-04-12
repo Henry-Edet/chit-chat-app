@@ -18,7 +18,7 @@ Table of Contents
 =>  Creating Group Chat
 =>  Managing Contacts
 =>  Settings and Preference
-=>  Troubleshooting
+=>  Troubleshootin
 =>  FA
 =>  Support
 

@@ -15,7 +15,7 @@ Table of Contents
 =>  Receiving Message
 =>  Logging Out
 =>  Advanced Featur
-=>  Creating Group Cha
+=>  Creating Group Ch
 =>  Managing Contacts
 =>  Settings and Preference
 =>  Troubleshootin

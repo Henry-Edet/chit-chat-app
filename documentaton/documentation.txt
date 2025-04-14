@@ -8,7 +8,7 @@ Table of Contents
 =>  Login Pag
 =>  Registration Page
 =>  Chat Dashboard
-=>  Using the Chat Application
+=>  Using the Chat Applicatio
 =>  Creating an Accoun
 =>  Logging In
 =>  Sending Messages

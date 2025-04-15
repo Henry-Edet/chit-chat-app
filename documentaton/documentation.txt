@@ -10,7 +10,7 @@ Table of Contents
 =>  Chat Dashboard
 =>  Using the Chat Applicatio
 =>  Creating an Accoun
-=>  Logging In
+=>  Logging I
 =>  Sending Messages
 =>  Receiving Message
 =>  Logging Out

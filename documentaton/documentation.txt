@@ -6,7 +6,7 @@ Table of Contents
 =>  Starting the Applicati
 =>  User Interface Overview
 =>  Login Pag
-=>  Registration Page
+=>  Registration Pag
 =>  Chat Dashboard
 =>  Using the Chat Applicatio
 =>  Creating an Accoun

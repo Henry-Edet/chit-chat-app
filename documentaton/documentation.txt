@@ -7,7 +7,7 @@ Table of Contents
 =>  User Interface Overview
 =>  Login Pag
 =>  Registration Pag
-=>  Chat Dashboard
+=>  Chat Dashboar
 =>  Using the Chat Applicatio
 =>  Creating an Accoun
 =>  Logging I

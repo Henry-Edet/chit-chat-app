@@ -1,5 +1,5 @@
 Chat Application User Guid
-Table of Contents
+Table of Content
 =>  Introduction
 =>  Getting Started
 =>  Installatio

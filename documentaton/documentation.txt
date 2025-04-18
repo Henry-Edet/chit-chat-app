@@ -4,7 +4,7 @@ Table of Content
 =>  Getting Started
 =>  Installati
 =>  Starting the Applic
-=>  User Interface Overview
+=>  User Interface Overiew
 =>  Login Pag
 =>  Registration Pag
 =>  Chat Dashboar

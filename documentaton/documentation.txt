@@ -2,7 +2,7 @@ Chat Application User Guid
 Table of Content
 =>  Introduction
 =>  Getting Started
-=>  Installati
+=>  Installa
 =>  Starting the Applic
 =>  User Interface Overiew
 =>  Login Pag

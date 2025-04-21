@@ -8,7 +8,7 @@ Table of Content
 =>  Login Pa
 =>  Registration Pag
 =>  Chat Dashboar
-=>  Using the Chat Applicati
+=>  Using the Chat Applicat
 =>  Creating an Accoun
 =>  Logging I
 =>  Sending Messages

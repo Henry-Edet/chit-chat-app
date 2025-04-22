@@ -6,7 +6,7 @@ Table of Conten
 =>  Starting the App
 =>  User Interface Overiew
 =>  Login P
-=>  Registration Pag
+=>  Registration P
 =>  Chat Dashboar
 =>  Using the Chat Applicat
 =>  Creating an Accoun

@@ -3,7 +3,7 @@ Table of Content
 =>  Introducti
 =>  Getting Started
 =>  Installa
-=>  Starting the Applic
+=>  Starting the Appli
 =>  User Interface Overiew
 =>  Login P
 =>  Registration Pag

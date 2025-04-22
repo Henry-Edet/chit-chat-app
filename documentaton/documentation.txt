@@ -5,7 +5,7 @@ Table of Content
 =>  Installa
 =>  Starting the Applic
 =>  User Interface Overiew
-=>  Login Pa
+=>  Login P
 =>  Registration Pag
 =>  Chat Dashboar
 =>  Using the Chat Applicat

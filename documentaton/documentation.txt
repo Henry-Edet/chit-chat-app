@@ -4,7 +4,7 @@ Table of Conten
 =>  Getting Started
 =>  Install
 =>  Starting the App
-=>  User Interface Overiew
+=>  User Interface Overie
 =>  Login P
 =>  Registration P
 =>  Chat Dashboar

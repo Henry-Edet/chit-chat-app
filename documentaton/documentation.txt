@@ -7,7 +7,7 @@ Table of Conten
 =>  User Interface Over
 =>  Login P
 =>  Registration P
-=>  Chat Dashb
+=>  Chat Das
 =>  Using the Chat Applicat
 =>  Creating an Accoun
 =>  Logging 

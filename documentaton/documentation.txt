@@ -9,7 +9,7 @@ Table of Conten
 =>  Registration P
 =>  Chat Das
 =>  Using the Chat Applicat
-=>  Creating an Accoun
+=>  Creating an Acco
 =>  Logging 
 =>  Sending Messages
 =>  Receiving Mess

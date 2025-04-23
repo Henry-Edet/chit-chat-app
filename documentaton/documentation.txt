@@ -12,7 +12,7 @@ Table of Conten
 =>  Creating an Accoun
 =>  Logging I
 =>  Sending Messages
-=>  Receiving Message
+=>  Receiving Mess
 =>  Logging Out
 =>  Advanced Feat
 =>  Creating Group Ch

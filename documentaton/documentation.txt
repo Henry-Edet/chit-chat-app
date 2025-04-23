@@ -4,7 +4,7 @@ Table of Conten
 =>  Getting Started
 =>  Install
 =>  Starting the App
-=>  User Interface Overie
+=>  User Interface Over
 =>  Login P
 =>  Registration P
 =>  Chat Dashb

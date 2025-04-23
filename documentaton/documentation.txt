@@ -14,7 +14,7 @@ Table of Conten
 =>  Sending Messages
 =>  Receiving Message
 =>  Logging Out
-=>  Advanced Featur
+=>  Advanced Feat
 =>  Creating Group Ch
 =>  Managing Contact
 =>  Settings and Preferece

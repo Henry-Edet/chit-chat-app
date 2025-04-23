@@ -10,7 +10,7 @@ Table of Conten
 =>  Chat Dashb
 =>  Using the Chat Applicat
 =>  Creating an Accoun
-=>  Logging I
+=>  Logging 
 =>  Sending Messages
 =>  Receiving Mess
 =>  Logging Out

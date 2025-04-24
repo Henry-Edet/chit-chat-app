@@ -7,7 +7,7 @@ Table of Conten
 =>  User Interface Over
 =>  Login P
 =>  Registration P
-=>  Chat Das
+=>  Chat Da
 =>  Using the Chat Applicat
 =>  Creating an Acco
 =>  Logging 

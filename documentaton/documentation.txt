@@ -17,7 +17,7 @@ Table of Conten
 =>  Advanced Feat
 =>  Creating Group Ch
 =>  Managing Contact
-=>  Settings and Preferece
+=>  Settings and Preferec
 =>  Troubleshootin
 =>  
 =>  Support

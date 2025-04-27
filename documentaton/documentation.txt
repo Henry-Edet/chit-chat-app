@@ -1,4 +1,4 @@
-Chat Application User Guid
+Chat Application User Gu
 Table of Conten
 =>  Intr
 =>  Getting Sta

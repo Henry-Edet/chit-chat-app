@@ -1,7 +1,7 @@
 Chat Application User Guid
 Table of Conten
 =>  Intr
-=>  Getting Start
+=>  Getting Sta
 =>  Install
 =>  Starting the App
 =>  User Interface Over

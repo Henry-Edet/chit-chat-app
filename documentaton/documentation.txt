@@ -2,7 +2,7 @@ Chat Application User Guid
 Table of Conten
 =>  Intr
 =>  Getting Sta
-=>  Install
+=>  Insta
 =>  Starting the App
 =>  User Interface Over
 =>  Login P

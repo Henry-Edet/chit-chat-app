@@ -6,7 +6,7 @@ Table of Conten
 =>  Starting the App
 =>  User Interface Over
 =>  Login P
-=>  Registration P
+=>  Registration 
 =>  Chat D
 =>  Using the Chat Applicat
 =>  Creating an Acco

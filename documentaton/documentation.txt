@@ -2,7 +2,7 @@ Chat Application User Gu
 Table of Conten
 =>  Intr
 =>  Getting St
-=>  Insta
+=>  Ins
 =>  Starting the App
 =>  User Interface Over
 =>  Login P

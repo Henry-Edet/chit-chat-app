@@ -1,7 +1,7 @@
 Chat Applic
 Table of Con
 =>  Intr
-=>  Getting S
+=>  Getting 
 =>  Ins
 =>  Starting the App
 =>  User Interface Over

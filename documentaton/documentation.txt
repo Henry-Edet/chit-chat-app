@@ -1,5 +1,5 @@
 Chat Application User Gu
-Table of Conten
+Table of Con
 =>  Intr
 =>  Getting St
 =>  Ins

@@ -2,7 +2,7 @@ Chat Applic
 Table of Con
 =>  Intr
 =>  Getting 
-=>  Ins
+=>  I
 =>  Starting the App
 =>  User Interface Ov
 =>  Login P

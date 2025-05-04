@@ -8,7 +8,7 @@ Table of Con
 =>  Login P
 =>  Registration 
 =>  Chat D
-=>  Using the Chat Applica
+=>  Using the Chat Applic
 =>  Creating an Ac
 =>  Logging 
 =>  Sending Messages

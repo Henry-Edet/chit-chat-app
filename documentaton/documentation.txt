@@ -3,7 +3,7 @@ Table of Con
 =>  Intr
 =>  Getting 
 =>  I
-=>  Starting the App
+=>  Starting the Ap
 =>  User Interface Ov
 =>  Login P
 =>  Registration 

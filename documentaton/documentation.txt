@@ -9,7 +9,7 @@ Table of Con
 =>  Registration 
 =>  Chat D
 =>  Using the Chat Applica
-=>  Creating an Acco
+=>  Creating an Ac
 =>  Logging 
 =>  Sending Messages
 =>  Receiving Mess

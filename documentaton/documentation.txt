@@ -1,6 +1,6 @@
 Chat Applic
 Table of C
-=>  Intr
+=>  In
 =>  Getting 
 =>
 =>  Starting the 

@@ -6,7 +6,7 @@ Table of C
 =>  Starting the 
 =>  User Interface 
 =>  Login P
-=>  Registration 
+=>  Registratio
 =>  Chat D
 =>  Using the Chat Appli
 =>  Creating an Ac

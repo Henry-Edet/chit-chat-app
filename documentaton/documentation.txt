@@ -7,7 +7,7 @@ Table of C
 =>  User Interface 
 =>  Login P
 =>  Registratio
-=>  Chat D
+=>  Chat 
 =>  Using the Chat Appli
 =>  Creating an Ac
 =>  Logging 

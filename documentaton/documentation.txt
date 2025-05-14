@@ -1,7 +1,7 @@
 Chat Applic
 Table of C
 =>  In
-=>  Gettin
+=>  Gett
 =>
 =>  Starting the 
 =>  User Interface 

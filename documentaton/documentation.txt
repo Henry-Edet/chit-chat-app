@@ -5,7 +5,7 @@ Table of C
 =>
 =>  Starting the 
 =>  User Interfa
-=>  Login P
+=>  Login
 =>  Registrati
 =>  Chat 
 =>  Using the Chat Appli

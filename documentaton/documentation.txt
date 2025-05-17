@@ -2,7 +2,7 @@ Chat Applic
 Table of 
 =>  I
 =>  Ge
-=>
+=
 =>  Starting the 
 =>  User Interfa
 =>  Log

@@ -7,7 +7,7 @@ Table of
 =>  User Inter
 =>  Log
 =>  Registrati
-=>  Ch
+=>  C
 =>  Using the Chat Appli
 =>  Creating an Ac
 =>  Logging 

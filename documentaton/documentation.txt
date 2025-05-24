@@ -3,7 +3,7 @@ Table of
 =>  I
 =>  Ge
 =
-=>  Starting t
+=>  Starting
 =>  User Inter
 =>  Log
 =>  Registrati

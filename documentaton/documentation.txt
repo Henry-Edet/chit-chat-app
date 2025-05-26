@@ -1,6 +1,6 @@
  App
 Table of 
-=>  I
+=>  
 =>  Ge
 =>  Starting
 =>  User Inter

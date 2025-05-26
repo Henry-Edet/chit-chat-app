@@ -2,7 +2,6 @@
 Table of 
 =>  I
 =>  Ge
-=
 =>  Starting
 =>  User Inter
 =>  Log

@@ -1,7 +1,7 @@
  App
 Table of 
 =>  
-=>  Ge
+=>  G
 =>  Starting
 =>  User Inter
 =>  Log

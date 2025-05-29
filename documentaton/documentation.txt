@@ -4,7 +4,7 @@ Tab
 =>  G
 =>  Startin
 =>  User Inter
-=>  Log
+=>  L
 =>  Registrati
 => 
 =>  Using the Chat Appli

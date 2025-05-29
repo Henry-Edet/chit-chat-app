@@ -2,7 +2,7 @@
 Tab
 =>  
 =>  G
-=>  Starting
+=>  Startin
 =>  User Inter
 =>  Log
 =>  Registrati

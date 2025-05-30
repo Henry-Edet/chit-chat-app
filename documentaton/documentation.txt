@@ -5,7 +5,7 @@ Tab
 =>  Startin
 =>  User Inter
 =>  L
-=>  Registrati
+=>  Registra
 => 
 =>  Using the Chat Appli
 =>  Creating an Ac

@@ -1,5 +1,4 @@
-  
-=
+  =
 =>  Starti
 =>  User Inter
 =>  L

@@ -1,5 +1,4 @@
-  =
-=>  Starti
+  ==>  Starti
 =>  User Inter
 =>  L
 =>  Registra

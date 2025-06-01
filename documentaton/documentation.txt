@@ -1,7 +1,6 @@
   User Inter
 =>  L
-=>  Registra
-=> 
+=>  Registr> 
 =>  Using the Chat Appli
 =>  Creating an Ac
 =>  Logging 

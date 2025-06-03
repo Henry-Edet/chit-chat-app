@@ -1,5 +1,5 @@
   User Inter
-=>  Registr> 
+=>  Registr
 =>  Using the Chat Appli
 =>  Creating an Ac
 =>  Logging 

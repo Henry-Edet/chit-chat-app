@@ -1,5 +1,5 @@
   User r
-=>  Regis
+=>  Re
 =>  Using the Chat Appli
 =>  Creating an Ac
 =>  Logging 

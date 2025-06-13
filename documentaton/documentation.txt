@@ -1,4 +1,4 @@
-=>  Creating 
+=>  Creati 
 =>  Logg
 =>  Sending Messages
 =>  Receiving Mess

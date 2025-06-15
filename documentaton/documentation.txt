@@ -1,4 +1,4 @@
-=>  Cr
+=>  C
 =>  Logg
 =>  Sending Messages
 =>  Receiving Mess

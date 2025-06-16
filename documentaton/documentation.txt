@@ -1,5 +1,5 @@
-=>  
-=>  Logg
+  
+=>  L
 =>  Sending Messages
 =>  Receiving Mess
 =>  Logging Out

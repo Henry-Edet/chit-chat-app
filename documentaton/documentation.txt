@@ -1,5 +1,5 @@
  =>  Sending Mess
-=>  Receiving Mess
+=>  Receiving Mes
 =>  Logging Out
 =>  Advanced Feat
 =>  Creating Group Ch

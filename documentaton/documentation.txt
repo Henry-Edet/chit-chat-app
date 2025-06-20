@@ -1,4 +1,4 @@
- =>  Sending Mess
+ =>  Sending M
 =>  Receiving Mes
 =>  Logging Out
 =>  Advanced Feat

@@ -1,6 +1,6 @@
    Sedi 
 =>  Receiving Mes
-=>  Logging Out
+=>  Logging O
 =>  Advanced Feat
 =>  Creating Group Ch
 =>  Managing Contact

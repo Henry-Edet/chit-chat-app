@@ -1,5 +1,4 @@
-    
-=>  Receiving Mes
+    =>  Receiving Mes
 =>  Logging O
 =>  Advanced Feat
 =>  Creating Group Ch

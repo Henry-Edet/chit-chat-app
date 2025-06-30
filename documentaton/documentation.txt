@@ -1,4 +1,4 @@
->  Receiving M
+>  Receiving
 =>  Logging O
 =>  Advanced Feat
 =>  Creating Group Ch

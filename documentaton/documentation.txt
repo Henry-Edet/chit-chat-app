@@ -1,4 +1,4 @@
->  Logging 
+>  Loggi 
 =>  Advanced Feat
 =>  Creating Group Ch
 =>  Managing Contact

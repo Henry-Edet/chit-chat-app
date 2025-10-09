@@ -1,4 +1,4 @@
-Introduction
+Introducti
 Welcome to the Social Interaction Module (P1M5) user guide! This document will help you understand how to use the chat application effectively. This chat app is built using the MERN stack and offers a seamless and interactive way to communicate with your friends and colleagues.
 
 Getting Started

@@ -5,7 +5,7 @@ To install the chat application, follow these steps:
 
 1.  Clone the Repository
 
-2.  Install Dependencies
+2.  Install Dependenc
 
 3.  Configure Environment Variables
 

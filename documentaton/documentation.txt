@@ -1,5 +1,5 @@
 Interaction Module (P1M5) user guide! This document will help you understand how to use the chat application effectively. This chat app Installation
-To install the chat application, follo
+To install the chat application, 
 
 1.  
 2.  Ins
